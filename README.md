@@ -12,7 +12,7 @@ get it as a block which its amount of bytes is the size of the image and the pro
 
 
 
-*CRaW*
+***CRaW***
 
 ## License
 [GNU](https://opensource.org/licenses/GPL-2.0)
